@@ -58,9 +58,9 @@ email: ''
 highlight_name: true
 ---
 
-Tianbo was born on Xining,Qinghai province, People's Reublic of China and moved to Beijing when he was five.
+Tianbo was born on Xining, Qinghai province, People's Reublic of China and moved to Beijing when he was five. He spent most of his young time on Beijing, but he is very excited to leave Beijing and go back to Lexington, Kentucky
 
-He now is a graduate student at Dr. Rachel Schendel (https://afs.ca.uky.edu/person/Schendel) lab working on upcycling of bourbon spent grains into novel food gradients. 
+He is a graduate student at Dr. Rachel Schendel (https://afs.ca.uky.edu/person/Schendel) lab working on upcycling of bourbon spent grains into novel food gradients. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
