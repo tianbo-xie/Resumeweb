@@ -58,7 +58,9 @@ email: ''
 highlight_name: true
 ---
 
-Tianbo now is a graduate student at Dr. Rachel Schendel(https://afs.ca.uky.edu/person/Schendel)'s lab. 
+Tianbo was born on Xining,Qinghai province, People's Reublic of China and moved to Beijing when he was five.
+
+He now is a graduate student at Dr. Rachel Schendel (https://afs.ca.uky.edu/person/Schendel) lab working on upcycling of bourbon spent grains into novel food gradients. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
