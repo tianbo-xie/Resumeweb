@@ -18,7 +18,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - NMR
+  - Physical Methods Application in Chem/Bio
   - Computational Chemistry
   - Physical Organic Chemsitry
 
