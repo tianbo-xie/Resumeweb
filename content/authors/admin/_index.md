@@ -14,7 +14,7 @@ organizations:
     url: https://www.uky.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include organic chemistry and physical method apllied in chemical and biological Science.
 
 # Interests to show in About widget
 interests:
