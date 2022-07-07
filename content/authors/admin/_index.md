@@ -6,7 +6,7 @@ title: Tianbo Xie
 superuser: true
 
 # Role/position/tagline
-role: Graudate Student @ University of Kentucky
+role: Graudate Student @ Department of Animal and Food Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -58,8 +58,7 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tianbo now is a graduate student at Dr. Rachel Schendel(https://afs.ca.uky.edu/person/Schendel)'s lab. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
