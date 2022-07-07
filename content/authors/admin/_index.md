@@ -63,4 +63,4 @@ Tianbo was born on Xining, Qinghai province, People's Reublic of China and moved
 He works at Dr. Rachel Schendel (https://afs.ca.uky.edu/person/Schendel) lab focusing on upcycling of bourbon spent grains into novel food gradients. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
