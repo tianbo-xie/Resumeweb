@@ -39,7 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'tianbo.tse@uky.edu'
+    link: "mailto:tianbo.tse@uky.edu"
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/%E5%A4%A9%E5%8D%9A-%E8%B0%A2-a327ab216/
