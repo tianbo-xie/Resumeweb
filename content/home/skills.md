@@ -9,25 +9,25 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Subject Interest
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: r-project
-    icon_pack: fab
-    name: R
   - description: 100%
-    icon: chart-line
+    icon: flask-vial
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Chemistry
+  - description: 90%
+    icon: atom
     icon_pack: fas
-    name: Photography
+    name: Physics
+  - description: 80%
+    icon: dna
+    icon_pack: fas
+    name: Biology
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
