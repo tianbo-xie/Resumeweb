@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 100%
-    icon: flask-vial
+    icon: flask
     icon_pack: fas
     name: Chemistry
   - description: 90%
