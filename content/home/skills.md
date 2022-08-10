@@ -9,22 +9,22 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Subject Interest
+title: Personal Study Preference
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 100%
+  - description: A+
     icon: flask
     icon_pack: fas
     name: Chemistry
-  - description: 90%
+  - description: A+
     icon: atom
     icon_pack: fas
     name: Physics
-  - description: 80%
+  - description: A
     icon: dna
     icon_pack: fas
     name: Biology
