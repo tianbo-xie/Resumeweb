@@ -14,7 +14,7 @@ organizations:
     url: https://www.uky.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include organic chemistry and physical method apllied in chemical and biological Science.
+bio: My research interests include organic chemistry and physical methods apllied in chemical and biological Science.
 
 # Interests to show in About widget
 interests:
@@ -55,12 +55,12 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
-Tianbo was born on Xining, Qinghai province, People's Reublic of China and moved to Beijing when he was five. He spent most of his young age on Beijing, but he is very excited to leave Beijing and go back to Lexington, Kentucky.
+Tianbo was born on Xining, Qinghai Province, People's Reublic of China and moved to Beijing when he was five. He spent most of his young age on Beijing, but he is very excited to leave Beijing and go back to Lexington, Kentucky.
 
-He works at Dr. Rachel Schendel (https://afs.ca.uky.edu/person/Schendel) lab focusing on upcycling of bourbon spent grains into novel food gradients. 
+He works at Dr. Rachel Schendel's (https://afs.ca.uky.edu/person/Schendel) lab focusing on upcycling of bourbon spent grains into novel food ingradients. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
