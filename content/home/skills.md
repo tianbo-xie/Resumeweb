@@ -29,7 +29,7 @@ feature:
     icon_pack: fas
     name: Molecular Biology
   - description: B+
-    icon: pizza
+    icon: cheese
     icon_pack: fas
     name: Food Science
   - description: D
