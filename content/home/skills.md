@@ -27,7 +27,15 @@ feature:
   - description: A
     icon: dna
     icon_pack: fas
-    name: Biology
+    name: Molecular Biology
+- description: B+
+    icon: cheese-swiss
+    icon_pack: fas
+    name: Food Science
+- description: C-
+    icon: recycle
+    icon_pack: fas
+    name: Environmental Engineering
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
