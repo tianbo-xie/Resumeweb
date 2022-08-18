@@ -28,11 +28,11 @@ feature:
     icon: dna
     icon_pack: fas
     name: Molecular Biology
-- description: B+
+  - description: B+
     icon: cheese-swiss
     icon_pack: fas
     name: Food Science
-- description: C-
+  - description: C-
     icon: recycle
     icon_pack: fas
     name: Environmental Engineering
