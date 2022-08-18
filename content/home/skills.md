@@ -29,13 +29,17 @@ feature:
     icon_pack: fas
     name: Molecular Biology
   - description: B+
-    icon: cheese-swiss
+    icon: pizza
     icon_pack: fas
     name: Food Science
-  - description: C-
+  - description: D
     icon: recycle
     icon_pack: fas
     name: Environmental Engineering
+  - description: F
+    icon: coins
+    icon_pack: fas
+    name: Economics
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
